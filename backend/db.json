@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Ricardo Junior teste",
+      "email": "ricardojunior@teste.com"
+    },
+    {
+      "id": 2,
+      "name": "Ricardo Junior 2",
+      "email": "ricardojunior2@teste.com"
+    },
+    {
+      "id": 3,
+      "name": "Ricardo Junior 23",
+      "email": "ricardojunior3@teste.com"
+    }
+  ]
+}
